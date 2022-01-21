@@ -1,0 +1,11 @@
+{
+  "name": "@litexa/name-free-invocation",
+  "version": "1.0.0",
+  "description": "Add support for Name Free Invocation to litexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cheruvian",
+  "license": "ISC"
+}
